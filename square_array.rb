@@ -1,3 +1,3 @@
 def square_array(array)
-  {3, 6, 9}  # your code here
+  {1, 2, 3}  # your code here
 end
